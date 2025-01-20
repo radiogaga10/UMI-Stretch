@@ -8,3 +8,7 @@ Poster:
 Documentation: 
 
 [Stretch UMI instructions.pdf](https://github.com/user-attachments/files/18483197/Stretch.UMI.instructions.pdf)
+
+Paper + Documentation:
+
+[Implementing UMI onto Stretch RE1.pdf](https://github.com/user-attachments/files/18483200/Implementing.UMI.onto.Stretch.RE1.pdf)
