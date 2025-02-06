@@ -1,5 +1,5 @@
 # UMI-Stretch
-Implementing UMI on Stretch RE1. Work in progress.
+Implementing UMI (universal manipulation interface) on Stretch RE1 for Mechatronics and Robotics Research Laboratory. Ongoing project with documentation progress.
 
 Poster: 
 
